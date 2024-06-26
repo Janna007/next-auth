@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div> Login page</div>
+    <div> Profile page</div>
   )
 }
 

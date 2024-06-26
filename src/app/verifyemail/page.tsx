@@ -2,7 +2,9 @@ import React from 'react'
 
 function page() {
   return (
-    <div> Login page</div>
+    <div>
+        VerifyEmail Page
+    </div>
   )
 }
 
